@@ -1,2 +1,3 @@
 # Redesigned-Amazon
-An official website for Amazon
+An official page of Amazon
+This code is very useful
